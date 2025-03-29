@@ -1,6 +1,6 @@
 Config = {
-    namescript = "BaconLumber",--Tên Script
-    logoscript = "72253284071728",--ID Logo Script
-    tacgia = "sadas"-- BaconLumber
+    namescript = "BaconLumber",
+    logoscript = "72253284071728",
+    tacgia = "BaconLumber"
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
